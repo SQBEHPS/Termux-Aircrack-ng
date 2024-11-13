@@ -90,7 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For questions or support, please reach out to:
-- **Email**: support@example.com
 - **GitHub Issues**: [Open an issue](https://github.com/your-repo/issues)
 
 ---
